@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UbicacionesApi\\UbicacionesApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UbicacionApp\\UbicacionApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
